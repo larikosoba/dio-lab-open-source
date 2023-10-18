@@ -57,3 +57,5 @@ Conhecimentos básicos em:
 [![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=purple)](+https://github.com/larikosoba)
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:larikosoba@gmail.com)
+
+Vamos nos conectar!! 
